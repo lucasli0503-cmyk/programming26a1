@@ -1,3 +1,12 @@
+# programming26a1
+
+## TERM1a
+
+### OOP Calculator using Processing and Java
+
+![Cal26](https://github.com/lucasli0503-cmyk/programming26a1/blob/main/images/Cal26.png?raw=true)
+
+[Link to source code](https://github.com/lucasli0503-cmyk/programming26a1/tree/main/src)
 ## OOP Calculator
 
 Created by Lucas Li using Processing and Java.
